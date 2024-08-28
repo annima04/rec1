@@ -1,6 +1,6 @@
 body
 {
-    background-color: whitesmoke;
+    background-color: gainsboro;
     color: rgb(47, 154, 255);
     font-size: 12pt;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,7 +16,7 @@ h1{ font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         }
 
-        .paragrafo{
+        p{
             color: BLACK;
             font-size: 15pt;
             font-family: 'Times New Roman', Times, serif;
